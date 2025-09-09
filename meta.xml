@@ -1,0 +1,4 @@
+<meta>
+    <script src='rectangle.lua' type='client'/>
+    <file src='rectangle.fx' type='client'/>
+</meta>
