@@ -31,7 +31,7 @@ Rectangle shader for Multi Theft Auto
 <details>
    <summary>Fill</summary>
 
-   ![Example](https://github.com/user-attachments/assets/e2571908-aaf0-47e3-b49a-42bda85971c0)
+   ![Example](https://github.com/user-attachments/assets/d0c2bfe3-6321-4ed3-ab9f-bddb92ac359b)
    ```lua
    drawRectangle(x, y, w, h, {
         fill = {color = {51, 161, 224, 255}, radius = 6},
@@ -42,7 +42,7 @@ Rectangle shader for Multi Theft Auto
 <details>
    <summary>Left</summary>
   
-   ![Example](https://github.com/user-attachments/assets/06a72b26-009c-43a8-8b9d-1a75096a9ec6)
+   ![Example](https://github.com/user-attachments/assets/e9b760be-6310-4a3f-86a7-4c2f785385cc)
    ```lua
    drawRectangle(x, y, w, h, {
         fill = {color = {51, 161, 224, 255}, radius = 6},
@@ -54,7 +54,7 @@ Rectangle shader for Multi Theft Auto
 <details>
    <summary>Right</summary>
 
-   ![Example](https://github.com/user-attachments/assets/739fe785-5a53-44bf-9a42-d6ab5bec4441)
+   ![Example](https://github.com/user-attachments/assets/9dad9853-3f45-432d-b88f-551ee8a17078)
    ```lua
    drawRectangle(x, y, w, h, {
         fill = {color = {51, 161, 224, 255}, radius = 6},
@@ -66,7 +66,7 @@ Rectangle shader for Multi Theft Auto
 <details>
    <summary>Top</summary>
   
-   ![Example](https://github.com/user-attachments/assets/6cd1c42d-768e-41bb-ad60-bdcf414493fb)
+   ![Example](https://github.com/user-attachments/assets/0ea1e339-9a91-458c-8f36-f9ba68112a5a)
    ```lua
    drawRectangle(x, y, w, h, {
         fill = {color = {51, 161, 224, 255}, radius = 6},
@@ -78,7 +78,7 @@ Rectangle shader for Multi Theft Auto
 <details>
    <summary>Bottom</summary>
 
-   ![Example](https://github.com/user-attachments/assets/c6f06fdb-9216-48c1-a155-2b7bb86a41c0)
+   ![Example](https://github.com/user-attachments/assets/ce032b82-7de5-4f58-97f2-6de0e651259a)
    ```lua
    drawRectangle(x, y, w, h, {
         fill = {color = {51, 161, 224, 255}, radius = 6},
